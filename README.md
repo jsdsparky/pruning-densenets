@@ -1,8 +1,9 @@
 # Pruning the Bottleneck Layers of the DenseNet CNN Architecture for Deep Learning Image Classification
+Independent research project by Jack DeLano
 
 **Overview**
 
-This is an independent research project that aims to improve the efficiency of DenseNets for both training and inference. The code for the DenseNet model was heavily modified from the version here: https://github.com/andreasveit/densenet-pytorch
+This project aims to improve the efficiency of DenseNets for both training and inference. The code for the DenseNet model was heavily modified from the version here: https://github.com/andreasveit/densenet-pytorch
 
 **Rationale**
 
