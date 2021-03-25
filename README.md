@@ -25,7 +25,7 @@ The unpruned model took about 30.1 seconds per epoch to train, whereas the prune
 
 <img width="500" alt="" src="plots/accuracy_over_time.png">
 
-**Figure 1.** Pruned and unpruned model accuracies on test and train sets, averaged over 4 trials each. Blue: Unpruned training accuracy; Green: Pruned training accuracy; Orange: Unpruned test accuracy; Red: Pruned test accuracy.
+**Figure 1. Pruned and unpruned model accuracies on test and train sets, averaged over 4 trials each. Blue: Unpruned training accuracy; Green: Pruned training accuracy; Orange: Unpruned test accuracy; Red: Pruned test accuracy.**
 
 The figure also shows the temporary sharp reduction in test and train set accuracy for the pruned model at epoch 10, which is expected due to most of the bottleneck input channels being disconnected at that time.
 
